@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us",PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSEast.us",PBS National East (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-id="WMPTDT2.us",WMPT-DT2 (PBS Create)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id"WUCF.us" ,WUCF
+https://static.drm.pbs.org/v1/channel/livestream-update-needed-ga/index.m3u8
